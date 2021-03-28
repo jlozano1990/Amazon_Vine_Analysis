@@ -6,19 +6,25 @@ I chose to look at Digital Video Game reviews. I used PySpark to perform the ETL
 
 ## Results
 **Q:** How many Vine reviews and non-Vine reviews were there?
+
 **A:** There were 0 Vine reviews and 1563 non-Vine Reviews.
+
 ![Vine Y Review Count](https://github.com/jlozano1990/Amazon_Vine_Analysis/blob/main/Images/vine_reviews_Y_count.PNG)
 
 ![Vine N Review Count](https://github.com/jlozano1990/Amazon_Vine_Analysis/blob/main/Images/vine_reviews_N_count.PNG)
 
 
 **Q:** How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
 **A:** Being that there were no Vine reviews, none were 5 stars. Of the non-Vine reviews, 582 were 5 star reviews.
+
 ![Five star review N vine count](https://github.com/jlozano1990/Amazon_Vine_Analysis/blob/main/Images/five_star_review_N_count.PNG)
 
 
 **Q:** What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
 **A:** 0% of vine reviews were 5 stars since there were none. Of the non-Vine reviews, 37.25% of the reviews were 5 stars.
+
 ![Percentage of five star reviews N Vine Count](https://github.com/jlozano1990/Amazon_Vine_Analysis/blob/main/Images/percentage_5_star_N_vine.PNG)
 
 ## Summary 
